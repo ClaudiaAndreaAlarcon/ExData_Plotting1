@@ -1,0 +1,7 @@
+---
+title: "ReadMe"
+author: "Claudia Alarcon"
+date: "31 de enero de 2021"
+output: word_document
+---
+
